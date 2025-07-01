@@ -1,0 +1,1 @@
+En este pequeño sistema se ve implementado la encapsulacion, herencia, composicion, implementacion de clases, el cual se puede ejecutar mediante consola, permitiendo la carga de datos del paciente(nombre y mail) y del doctor (nombre, mail, especialidad) para autorizar un turno medico
